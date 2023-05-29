@@ -1,8 +1,13 @@
 sch: https://www.google.com/search?q=kvm+ballooning+ubuntu+desktop, https://www.google.com/search?q=virtio+memory+balloon, https://www.google.com/search?q=kvm+ubuntu+memory+ballooning
 
-guide: https://pmhahn.github.io/virtio-balloon/
+# guide:
+sch: https://www.youtube.com/results?search_query=kvm+memory+ballooning
+- https://pmhahn.github.io/virtio-balloon/
 
-doc:
+## Virtio:
+- [[2020] Virtio-(balloon|pmem|mem): Managing Guest Memory by David Hildenbrand & Michael S. Tsirkin](https://youtu.be/Fq47WCCm-HM)
+
+# doc:
 - https://pve.proxmox.com/wiki/Dynamic_Memory_Management#Ballooning
 
 # Problem
