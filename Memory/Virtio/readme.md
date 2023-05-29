@@ -1,0 +1,1 @@
+- [[2020] Virtio-(balloon|pmem|mem): Managing Guest Memory by David Hildenbrand & Michael S. Tsirkin](https://youtu.be/Fq47WCCm-HM)
